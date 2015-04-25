@@ -343,10 +343,7 @@ Table of Contents
    * https://build.opensuse.org/ - package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
    * https://copr.fedoraproject.org/ - mock-based RPM build service for Fedora and EL
    * https://help.launchpad.net/Packaging - Ubuntu and Debian build service
-   
-## Binary repositories
-
-   * https://bintray.com/ - binary repository system (maven, .deb and .rpm ... and even docker). Repo can be registered for each system, making updates easier.
+   * https://bintray.com/ - Distribution as a Service : binary repository system (maven, .deb and .rpm ... and even docker). Repo can be registered for each system, making updates easier. Can be used as a workaround to launchpad when for example you build .deb or .rpm from maven. You can sign on with github account and have a preety nice number of free packages for open source usage
    
 
 ## IDE and Code Editing
